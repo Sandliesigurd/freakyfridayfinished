@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: 16px;
+   
+    
+
+
+}
+
+
+p{
+    font-size: 1.4em;
+}
+
+.serif{
+    font-family: serif;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+}
